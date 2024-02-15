@@ -5,5 +5,5 @@ st.sidebar.markdown("# Main Page")
 
 st.write("Click on a page to see racer or kart stats")
 
-link = '[To my Github Pages Site](http://127.0.0.1:5500/index.html)'
+link = '[To my Github Pages Site](https://natejop.github.io/github_assignment/)'
 st.markdown(link, unsafe_allow_html=True)
